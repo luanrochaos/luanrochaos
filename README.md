@@ -2,7 +2,6 @@
 
 I'm Luan Rocha, a passionate Full Stack student 💻.
 
-
 - :seedling: I’m currently learning about TypeScript and ReactJS.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for an internship.
@@ -28,3 +27,5 @@ I'm Luan Rocha, a passionate Full Stack student 💻.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrochaos&theme=dark&layout=compact" width="410" /></p>
 
 ------
+
+![](https://komarev.com/ghpvc/?username=luanrochaos)
